@@ -79,7 +79,7 @@ Random Forest is the recommended model for further development because it provid
 
 ```
 ├── data/raw/EURUSD_daily.csv        # Source data — do not modify
-├── final_project_draft.ipynb        # Full submission notebook
+├── final_project_submission.ipynb   # Full submission notebook
 ├── outputs/figures/                 # All saved charts
 └── README.md
 ```
